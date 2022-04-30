@@ -1,0 +1,63 @@
+/*Redireccionamiento a un topico de la misma pagina */
+html{
+    scroll-behavior: auto !important;
+}
+
+/*Navbar*/ 
+body{
+    font-family: Helvetica;
+    background-color: black;
+}
+.navbar{
+    background-color:#3FBFBF;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+.navbar-brand{
+    font-family:"Oswald";
+    font-size: 40px;
+    font-weight: 700;
+}
+/*Quienessomos */
+#Quienessomos i{
+    color: white;
+}
+#Quienessomos h1{
+    color: white;
+}
+#Quienessomos p{
+    color: white;
+}
+/*Destacados*/
+#Destacados{
+    font-family: "Oswald";
+}
+#Destacados h1{
+    font-size: 52px;
+}
+.card-body{
+    background: #3FBFBF;
+}
+/*contacto*/
+#contacto h1{
+    font-family: "Oswald";
+    font-size: 52px;
+    color: white;
+}
+.form-label{
+    color: white;
+}
+
+/*Footer*/
+#Footer{
+    background-color:#3FBFBF;
+}
+#Footer h1{
+    font-family: "Oswald";
+}
+#Footer a{
+    color: white;
+    text-decoration: none;
+
+}
